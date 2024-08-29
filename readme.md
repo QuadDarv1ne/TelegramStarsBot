@@ -16,7 +16,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/king-tri-ton/TelegramStarsBot
+    git clone https://github.com/QuadDarv1ne/TelegramStarsBot/
     cd TelegramStarsBot
     ```
 
